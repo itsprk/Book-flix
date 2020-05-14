@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Book-flix/static/css/main.a00742b2.chunk.css",
+    "main.js": "/Book-flix/static/js/main.d5f37be4.chunk.js",
+    "main.js.map": "/Book-flix/static/js/main.d5f37be4.chunk.js.map",
+    "runtime-main.js": "/Book-flix/static/js/runtime-main.6440bab2.js",
+    "runtime-main.js.map": "/Book-flix/static/js/runtime-main.6440bab2.js.map",
+    "static/css/2.01bbb909.chunk.css": "/Book-flix/static/css/2.01bbb909.chunk.css",
+    "static/js/2.3cf131f8.chunk.js": "/Book-flix/static/js/2.3cf131f8.chunk.js",
+    "static/js/2.3cf131f8.chunk.js.map": "/Book-flix/static/js/2.3cf131f8.chunk.js.map",
+    "index.html": "/Book-flix/index.html",
+    "precache-manifest.a5268a088730a863f30b17565bc4f450.js": "/Book-flix/precache-manifest.a5268a088730a863f30b17565bc4f450.js",
+    "service-worker.js": "/Book-flix/service-worker.js",
+    "static/css/2.01bbb909.chunk.css.map": "/Book-flix/static/css/2.01bbb909.chunk.css.map",
+    "static/css/main.a00742b2.chunk.css.map": "/Book-flix/static/css/main.a00742b2.chunk.css.map",
+    "static/js/2.3cf131f8.chunk.js.LICENSE.txt": "/Book-flix/static/js/2.3cf131f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6440bab2.js",
+    "static/css/2.01bbb909.chunk.css",
+    "static/js/2.3cf131f8.chunk.js",
+    "static/css/main.a00742b2.chunk.css",
+    "static/js/main.d5f37be4.chunk.js"
+  ]
+}
